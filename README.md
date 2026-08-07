@@ -1,23 +1,4 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:1e3a8a,100=0f766e&height=120&section=header&text=&fontSize=0" />
-
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Harsh+Chauhan+%F0%9F%91%8B;AI+Engineer+%7C+Shipping+Production+LLM+Systems;Agentic+Assistants%2C+RAG%2C+Clinical+ML;From+Prototype+to+700%2B+Users" alt="Typing SVG" />
-</h1>
-
-<p>
-  <a href="https://www.linkedin.com/in/harshrchauhan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harshchauhan1357@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=harshrc1357&style=flat-square&color=38bdf8" />
-
-</div>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:1e3a8a,100=0f766e&height=120&section=header&text=&fontSize=0" /> <h1> <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Harsh+Chauhan+%F0%9F%91%8B;Agentic+AI+for+Fintech%2C+Healthcare+%26+Beyond;From+Startup+MVPs+to+HIPAA-Compliant+Pipelines;AI+Engineer+Shipping+to+Production%2C+Not+Just+Prototypes" alt="Typing SVG" /> </h1> <p> <a href="https://www.linkedin.com/in/harshrchauhan"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:harshchauhan1357@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <img src="https://komarev.com/ghpvc/?username=harshrc1357&style=flat-square&color=38bdf8" /> </div>
 
 ---
 
