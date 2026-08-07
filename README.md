@@ -60,19 +60,6 @@ class Harsh:
 
 ---
 
-## Work Experience
-
-**Founding AI Engineer** — Ticker Inc. *(early-stage fintech AI startup)* · Aug 2025 – May 2026
-Built a LangGraph-based conversational AI chatbot from prototype to production, combining RAG with tool-calling across news, finance, stock, web search, and crypto data — serving 700+ active users. Upgraded the RAG pipeline into a multi-stage retrieval system (MMR, re-ranking), improving answer relevance by 35% on a RAGAS benchmark. Migrated vector storage from Qdrant/Cloud SQL to MongoDB Atlas, cutting infra cost by 89% while sustaining sub-1s retrieval latency.
-
-**AI/ML Research Assistant** — Indiana University School of Dentistry · Jan 2025 – Present
-Engineered a clinical classification system on 39K patient records, improving cross-validated accuracy from 69% to 97% by moving from BioClinicalBERT to XGBoost with SHAP-guided feature selection. Deployed a Streamlit dashboard for real-time risk predictions and built a HIPAA-compliant synthetic data pipeline for external testing.
-
-**Data Science Intern** — Buzz Makers · May 2022 – June 2023
-Applied K-Means clustering and LDA topic modeling across engagement and content data, contributing to a 15% increase in organic traffic and a 50% cut in reporting effort.
-
----
-
 ## Selected Private Work
 
 *Code for these lives in private employer/research repos — not publicly linkable, but happy to walk through them.*
