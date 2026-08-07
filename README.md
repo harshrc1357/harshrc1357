@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:1e3a8a,100=0f766e&height=120&section=header&text=&fontSize=0" />
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Harsh+Chauhan+%F0%9F%91%8B;From+Startup+MVPs+to+HIPAA-Compliant+Pipelines;Agentic+AI+for+Fintech%2C+Healthcare+%26+Beyond;AI+Engineer+Shipping+to+Production%2C+Not+Just+Prototypes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Harsh+Chauhan+%F0%9F%91%8B;Agentic+AI+for+Fintech%2C+Healthcare+%26+Beyond;From+Startup+MVPs+to+HIPAA-Compliant+Pipelines;AI+Engineer+Shipping+to+Production%2C+Not+Just+Prototypes" alt="Typing SVG" />
 </h1>
 
 <p>
@@ -244,9 +244,11 @@ class Harsh:
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://ghstats.dev/api/card?username=harshrc1357&theme=tokyonight" />
+  <img src="https://ghstats.dev/api/card?username=harshrc1357&hide_border=true&hide_title=true&border_radius=9&size=compact&compact_count=4&hide=hours%2Cissues%2Cfollowers%2Cgrade%2Cweek%2Cactive_day%2Cavg%2Cprs&order=commits%2Ccontributions%2Cstreak%2Crepos%2Cstars%2Ctrend" alt="GitHub Stats Card" />
 </div>
 
+
+<sub>Stats powered by <a href="https://ghstats.dev">ghstats.dev</a>. PRs, and Issues are hidden since those undercount work done in private/employer repos, which is where most of my code actually lives.</sub>
 
 ---
 
