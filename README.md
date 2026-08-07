@@ -1,16 +1,259 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**harshrc1357/harshrc1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:1e3a8a,100=0f766e&height=120&section=header&text=&fontSize=0" />
 
-Here are some ideas to get you started:
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Harsh+Chauhan+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+Systems+%26+RAG;Building+LLM+Systems+That+Ship;From+Prototype+to+Production" alt="Typing SVG" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/harshrchauhan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harshchauhan1357@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=harshrc1357&style=flat-square&color=38bdf8" />
+
+</div>
+
+---
+
+## About Me
+
+```python
+class Harsh:
+    role     = "AI Engineer | Agentic Systems & RAG"
+    degree   = "M.S. Data Science · Indiana University · GPA 3.8/4.0"
+    location = "Austin, TX"
+
+    focus = [
+        "Production agentic AI systems (LangChain, LangGraph, CrewAI)",
+        "RAG pipelines & multi-stage retrieval (RAGAS-evaluated)",
+        "Clinical & applied ML (XGBoost, SHAP, feature engineering)",
+        "FastAPI backends, vector databases, cloud deployment",
+    ]
+
+    currently_building = "Agentic assistants and ML pipelines that hold up in production, not just notebooks"
+```
+
+> Note: several of my repos are private (client/employer work or research still in progress) and aren't visible on this profile. Reach out if you'd like a walkthrough.
+
+---
+
+## Impact at a Glance
+
+<div align="center">
+
+| 🚀 | Metric |
+|:---:|:---|
+| **700+** | Active users on a production agentic assistant |
+| **97%** | Cross-validated accuracy on a clinical ML model (up from 69%) |
+| **89%** | Infra cost reduction from a vector-store migration |
+| **35%** | RAG answer-relevance improvement (RAGAS benchmark) |
+| **39K+** | Patient records processed in a HIPAA-compliant pipeline |
+| **15%** | Organic traffic lift from an NLP-driven SEO pipeline |
+
+</div>
+
+---
+
+## Work Experience
+
+**Founding AI Engineer** — Ticker Inc. *(early-stage fintech AI startup)* · Aug 2025 – May 2026
+Built a LangGraph-based conversational AI chatbot from prototype to production, combining RAG with tool-calling across news, finance, stock, web search, and crypto data — serving 700+ active users. Upgraded the RAG pipeline into a multi-stage retrieval system (MMR, re-ranking), improving answer relevance by 35% on a RAGAS benchmark. Migrated vector storage from Qdrant/Cloud SQL to MongoDB Atlas, cutting infra cost by 89% while sustaining sub-1s retrieval latency.
+
+**AI/ML Research Assistant** — Indiana University School of Dentistry · Jan 2025 – Present
+Engineered a clinical classification system on 39K patient records, improving cross-validated accuracy from 69% to 97% by moving from BioClinicalBERT to XGBoost with SHAP-guided feature selection. Deployed a Streamlit dashboard for real-time risk predictions and built a HIPAA-compliant synthetic data pipeline for external testing.
+
+**Data Science Intern** — Buzz Makers · May 2022 – June 2023
+Applied K-Means clustering and LDA topic modeling across engagement and content data, contributing to a 15% increase in organic traffic and a 50% cut in reporting effort.
+
+---
+
+## Selected Private Work
+
+*Code for these lives in private employer/research repos — not publicly linkable, but happy to walk through them.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💸 Agentic Financial Assistant — Ticker Inc.
+> Production LangGraph chatbot serving 700+ users
+
+- RAG + tool-calling across news, finance, stock, web search, and crypto data sources
+- Multi-stage retrieval (MMR, re-ranking) — **+35% answer relevance** on RAGAS benchmark
+- Migrated Qdrant/Cloud SQL → MongoDB Atlas — **89% lower infra cost**, sub-1s retrieval
+- FastAPI + LangGraph on GCP Cloud Run, async REST/SSE streaming to an iOS client
+- GitHub Actions CI/CD; semantic chunking cut irrelevant chunk retrieval by 40%
+
+`LangGraph` `LangChain` `FastAPI` `MongoDB Atlas` `RAGAS` `GCP Cloud Run` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🦷 Clinical Caries Risk Model — Indiana University School of Dentistry
+> XGBoost classification system on 39K+ patient records
+
+- Accuracy improved **69% → 97%** by moving from BioClinicalBERT to XGBoost with SHAP-guided feature selection
+- 40+ engineered clinical features; error analysis with dental faculty on misclassified edge cases
+- Streamlit dashboard with patient-level SHAP visualizations for clinicians
+- SQL-based de-identification pipeline masking 18 PHI field types — HIPAA Safe Harbor compliant
+- Synthetic patient record generator (Azure AI Foundry, schema-constrained prompting) for external testing
+
+`XGBoost` `SHAP` `Streamlit` `Azure AI Foundry` `LangChain` `HIPAA-compliant pipelines`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Multi-Agent Software Engineering System
+> 4-agent CrewAI pipeline that ships working apps
+
+- Lead / Backend / Frontend / Test agents coordinate autonomously
+- Converts natural-language requirements into production-ready apps — design docs, Python modules, Gradio UI, unit tests
+- Docker-sandboxed execution for safety
+
+`CrewAI` `Python` `Docker` `Gradio` `GPT-4o` `Claude 3 Haiku`
+
+[📂 Repo](https://github.com/harshrc1357/Multi-Agent_Software_Engineering_System)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Career Conversation Assistant
+> Conversational agent for career Q&A
+
+- LLM-backed assistant for interactive career conversations
+
+`Python`
+
+[📂 Repo](https://github.com/harshrc1357/Career-Conversation-Assistant)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👥 Coder Crew
+> Multi-agent coding workflow
+
+- Agent-based system for collaborative coding tasks
+
+`Python`
+
+[📂 Repo](https://github.com/harshrc1357/Coder_Crew)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗣️ Debater
+> AI agents arguing structured debate positions
+
+- Multi-agent debate simulation
+
+`Python`
+
+[📂 Repo](https://github.com/harshrc1357/Debater)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Financial Researcher
+> Automated financial research agent
+
+- Agent-driven pipeline for financial research and analysis
+
+`Python`
+
+[📂 Repo](https://github.com/harshrc1357/Financial_Researcher)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 AI Stock Analysis & Recommendation System
+> Stock analysis powered by LLMs
+
+- AI-driven pipeline for stock analysis and recommendations
+
+`Python`
+
+[📂 Repo](https://github.com/harshrc1357/AI_Stock_Analysis_And_Recommendation_System)
+
+</td>
+</tr>
+</table>
+
+*Descriptions above for the last five repos are placeholders based on repo names — send me the actual READMEs and I'll swap in the real details and metrics.*
+
+---
+
+## Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI / LLM Engineering**
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A1F?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+**ML & NLP**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Backend & Data Stores**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+
+**Cloud & MLOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=harshrc1357&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrc1357&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=38bdf8&text_color=e2e8f0&langs_count=6" />
+</div>
+
+---
+
+## Let's Connect
+
+Open to full-time roles in **AI/ML engineering** and **backend systems**.
+
+<div align="center">
+
+**[harshchauhan1357@gmail.com](mailto:harshchauhan1357@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/harshrchauhan)**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:1e3a8a,100=0f766e&height=80&section=footer" />
