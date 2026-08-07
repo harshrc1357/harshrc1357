@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:1e3a8a,100=0f766e&height=120&section=header&text=&fontSize=0" />
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Harsh+Chauhan+%F0%9F%91%8B;AI+Engineer+%7C+Agentic+Systems+%26+RAG;Building+LLM+Systems+That+Ship;From+Prototype+to+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Harsh+Chauhan+%F0%9F%91%8B;AI+Engineer+%7C+Shipping+Production+LLM+Systems;Agentic+Assistants%2C+RAG%2C+Clinical+ML;From+Prototype+to+700%2B+Users" alt="Typing SVG" />
 </h1>
 
 <p>
@@ -25,7 +25,7 @@
 
 ```python
 class Harsh:
-    role     = "AI Engineer | Agentic Systems & RAG"
+    role     = "AI Engineer | Shipping Production LLM Systems"
     degree   = "M.S. Data Science · Indiana University · GPA 3.8/4.0"
     location = "Austin, TX"
 
@@ -146,24 +146,28 @@ Applied K-Means clustering and LDA topic modeling across engagement and content 
 <tr>
 <td width="50%" valign="top">
 
-### 👥 Coder Crew
-> Multi-agent coding workflow
+### ⚙️ Coder Crew — AI Code Generation System
+> Autonomous multi-agent Python developer
 
-- Agent-based system for collaborative coding tasks
+- Architected a multi-agent CrewAI system for autonomous code generation, execution, and validation from natural-language assignments
+- Python Developer agent with YAML-based config, retry mechanisms, and 30s execution timeouts
+- Docker-based safe code execution end-to-end
 
-`Python`
+`CrewAI` `Python` `Docker` `Gradio` `YAML`
 
 [📂 Repo](https://github.com/harshrc1357/Coder_Crew)
 
 </td>
 <td width="50%" valign="top">
 
-### 🗣️ Debater
-> AI agents arguing structured debate positions
+### 🗣️ Debater — Multi-Agent Debate System
+> Autonomous pro/con argument generation and adjudication
 
-- Multi-agent debate simulation
+- CrewAI system with specialized Debater and Judge agents producing sequential, reproducible debate workflows
+- YAML-based agent configuration for rapid iteration across topics
+- Structured Markdown outputs for transparent evaluation of argument quality and decision rationale
 
-`Python`
+`CrewAI` `Python` `OpenAI GPT-4o-mini` `Claude 3.5 Sonnet`
 
 [📂 Repo](https://github.com/harshrc1357/Debater)
 
@@ -172,12 +176,14 @@ Applied K-Means clustering and LDA topic modeling across engagement and content 
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Financial Researcher
-> Automated financial research agent
+### 📊 Financial Researcher — AI-Powered Research Pipeline
+> 2-agent automated due diligence workflow
 
-- Agent-driven pipeline for financial research and analysis
+- Researcher + Analyst agents perform web-based company analysis and generate structured reports with executive summaries
+- Real-time web data extraction via SerperDevTool, with context-passing between agents to synthesize sources into Markdown reports
+- Streamlines research consistency and speed for fintech due diligence
 
-`Python`
+`CrewAI` `Python` `SerperDevTool` `GPT-4o-mini` `Groq Llama 3.3`
 
 [📂 Repo](https://github.com/harshrc1357/Financial_Researcher)
 
@@ -185,11 +191,13 @@ Applied K-Means clustering and LDA topic modeling across engagement and content 
 <td width="50%" valign="top">
 
 ### 📈 AI Stock Analysis & Recommendation System
-> Stock analysis powered by LLMs
+> Hierarchical 4-agent investment research workflow
 
-- AI-driven pipeline for stock analysis and recommendations
+- Manager + 3 specialist agents identify trending companies, perform deep research, and recommend opportunities with push notifications
+- Pydantic-validated structured outputs across the pipeline
+- Multi-modal memory (long-term SQLite + short-term RAG + entity memory) via OpenAI embeddings to avoid duplicate recommendations and retain context
 
-`Python`
+`CrewAI` `Python` `Pydantic` `GPT-4o` `RAG Memory`
 
 [📂 Repo](https://github.com/harshrc1357/AI_Stock_Analysis_And_Recommendation_System)
 
@@ -197,7 +205,7 @@ Applied K-Means clustering and LDA topic modeling across engagement and content 
 </tr>
 </table>
 
-*Descriptions above for the last five repos are placeholders based on repo names — send me the actual READMEs and I'll swap in the real details and metrics.*
+*Description for Career Conversation Assistant is a placeholder based on the repo name — send its README or a couple of bullets and I'll swap in the real details.*
 
 ---
 
@@ -208,22 +216,29 @@ Applied K-Means clustering and LDA topic modeling across engagement and content 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**AI / LLM Engineering**
+**Agentic AI & LLM Orchestration**
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A1F?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-6366F1?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square)
 
 **ML & NLP**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-016A70?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square)
 
-**Backend & Data Stores**
+**Backend & APIs**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+**Databases & Vector Stores**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
@@ -231,6 +246,7 @@ Applied K-Means clustering and LDA topic modeling across engagement and content 
 
 **Cloud & MLOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -240,9 +256,11 @@ Applied K-Means clustering and LDA topic modeling across engagement and content 
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=harshrc1357&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrc1357&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=38bdf8&text_color=e2e8f0&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=harshrc1357&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github&cache_seconds=0" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrc1357&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=38bdf8&text_color=e2e8f0&langs_count=6&cache_seconds=0" />
 </div>
+
+<sub>If these badges show broken/empty: the shared `github-readme-stats.vercel.app` instance is frequently rate-limited by Vercel. The permanent fix is deploying your own free copy (fork the repo → "Deploy to Vercel" button in its README, ~2 min), then swap the domain in the image URLs above to your own `*.vercel.app` deployment.</sub>
 
 ---
 
