@@ -132,20 +132,6 @@ Applied K-Means clustering and LDA topic modeling across engagement and content 
 </td>
 <td width="50%" valign="top">
 
-### 💬 Career Conversation Assistant
-> Conversational agent for career Q&A
-
-- LLM-backed assistant for interactive career conversations
-
-`Python`
-
-[📂 Repo](https://github.com/harshrc1357/Career-Conversation-Assistant)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### ⚙️ Coder Crew — AI Code Generation System
 > Autonomous multi-agent Python developer
 
@@ -205,8 +191,6 @@ Applied K-Means clustering and LDA topic modeling across engagement and content 
 </tr>
 </table>
 
-*Description for Career Conversation Assistant is a placeholder based on the repo name — send its README or a couple of bullets and I'll swap in the real details.*
-
 ---
 
 ## Tech Stack
@@ -255,12 +239,7 @@ Applied K-Means clustering and LDA topic modeling across engagement and content 
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=harshrc1357&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github&cache_seconds=0" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrc1357&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=38bdf8&text_color=e2e8f0&langs_count=6&cache_seconds=0" />
-</div>
 
-<sub>If these badges show broken/empty: the shared `github-readme-stats.vercel.app` instance is frequently rate-limited by Vercel. The permanent fix is deploying your own free copy (fork the repo → "Deploy to Vercel" button in its README, ~2 min), then swap the domain in the image URLs above to your own `*.vercel.app` deployment.</sub>
 
 ---
 
