@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:1e3a8a,100=0f766e&height=120&section=header&text=&fontSize=0" />
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Harsh+Chauhan+%F0%9F%91%8B;Agentic+AI+for+Fintech%2C+Healthcare+%26+Beyond;From+Startup+MVPs+to+HIPAA-Compliant+Pipelines;AI+Engineer+Shipping+to+Production%2C+Not+Just+Prototypes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=28&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Harsh+Chauhan+%F0%9F%91%8B;From+Startup+MVPs+to+HIPAA-Compliant+Pipelines;Agentic+AI+for+Fintech%2C+Healthcare+%26+Beyond;AI+Engineer+Shipping+to+Production%2C+Not+Just+Prototypes" alt="Typing SVG" />
 </h1>
 
 <p>
@@ -120,13 +120,16 @@ class Harsh:
 <td width="50%" valign="top">
 
 ### 💬 Career Conversation Assistant
-> Conversational agent for career Q&A
+> AI portfolio assistant that talks about your career, live on Hugging Face
 
-- LLM-backed assistant for interactive career conversations
+- Gradio chat interface where visitors ask about your background, skills, and experience in natural language
+- Powered by Groq's GPT-OSS-20B for fast, context-aware responses, grounded in your LinkedIn, resume, and summary
+- Function calling to record visitor contact info and log unanswered questions, with Pushover push notifications on every interaction
+- Flexible config: env vars for deployment, local PDF/text files for development
 
-`Python`
+`Python` `Gradio` `Groq` `PyPDF` `Pushover`
 
-[📂 Repo](https://github.com/harshrc1357/Career-Conversation-Assistant)
+[📂 Repo](https://github.com/harshrc1357/Career-Conversation-Assistant) · [🌐 Live Demo](https://huggingface.co/spaces/Harshrc/career_conversation)
 
 </td>
 </tr>
@@ -192,8 +195,6 @@ class Harsh:
 </tr>
 </table>
 
-*Description for Career Conversation Assistant is a placeholder based on the repo name — send its README or a couple of bullets and I'll swap in the real details.*
-
 ---
 
 ## Tech Stack
@@ -243,11 +244,15 @@ class Harsh:
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=harshrc1357&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github&cache_seconds=0" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrc1357&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=38bdf8&text_color=e2e8f0&langs_count=6&cache_seconds=0" />
+  <img height="180" src="https://ghstats.dev/api/card?username=harshrc1357&theme=tokyonight" />
+  <img height="180" src="https://ghstats.dev/api/langs?username=harshrc1357&theme=tokyonight" />
 </div>
 
-<sub>If these badges show broken/empty: the shared `github-readme-stats.vercel.app` instance is frequently rate-limited by Vercel. The permanent fix is deploying your own free copy (fork the repo → "Deploy to Vercel" button in its README, ~2 min), then swap the domain in the image URLs above to your own `*.vercel.app` deployment.</sub>
+<div align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=harshrc1357&theme=tokyonight&days=30&width=760" />
+</div>
+
+<sub>Stats powered by <a href="https://ghstats.dev">ghstats.dev</a> (open source, no token required) — swapped in because the older <code>github-readme-stats.vercel.app</code> instance is frequently rate-limited by Vercel.</sub>
 
 ---
 
