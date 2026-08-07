@@ -245,14 +245,8 @@ class Harsh:
 
 <div align="center">
   <img height="180" src="https://ghstats.dev/api/card?username=harshrc1357&theme=tokyonight" />
-  <img height="180" src="https://ghstats.dev/api/langs?username=harshrc1357&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=harshrc1357&theme=tokyonight&days=30&width=760" />
-</div>
-
-<sub>Stats powered by <a href="https://ghstats.dev">ghstats.dev</a> (open source, no token required) — swapped in because the older <code>github-readme-stats.vercel.app</code> instance is frequently rate-limited by Vercel.</sub>
 
 ---
 
